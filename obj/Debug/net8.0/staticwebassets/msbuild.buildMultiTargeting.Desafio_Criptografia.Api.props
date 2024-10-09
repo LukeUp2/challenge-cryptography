@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Desafio_Criptografia.Api.props" />
+</Project>
